@@ -1,0 +1,18 @@
+.currencyInput {
+    display: inline-block;
+}
+
+input, select {
+    height: 60px;
+}
+
+select {
+    width: 35px;
+}
+
+.nameCalc {
+    text-align: left;
+    font-size: 16px;
+    color: rgb(192, 192, 192);
+    margin: 10px 0px;
+}
