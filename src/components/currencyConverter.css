@@ -1,0 +1,13 @@
+.converter {
+    position: relative;
+}
+
+.reverseButton {
+    display: inline-block;
+    vertical-align: bottom;
+    width: 100px;
+}
+
+.preloader {
+    height: 40px;
+}
